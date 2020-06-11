@@ -2,7 +2,7 @@
 title: "Tarea Mayo"
 author: "María Eglée Pérez"
 date: "5/9/2020"
-output: pdf_document
+output: rmarkdown::github_document
 ---
 
 - Completada para MATE-3027:
